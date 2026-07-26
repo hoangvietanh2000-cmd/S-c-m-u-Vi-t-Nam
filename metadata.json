@@ -1,0 +1,6 @@
+{
+  "name": "Sắc Màu Việt Nam",
+  "description": "Bảo tàng số tương tác 15 dân tộc tiêu biểu Việt Nam - Khám phá đời sống cộng đồng, văn hóa vật chất & tinh thần",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
